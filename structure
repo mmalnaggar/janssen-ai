@@ -1,0 +1,30 @@
+janssen-ai/
+│
+├── agents/
+│   ├── sales.agent.json
+│   ├── support.agent.json
+│   ├── warranty.agent.json
+│   ├── complaint.agent.json
+│   └── escalation.agent.json
+│
+├── flows/
+│   ├── unified-agent-flow.json
+│   └── voice-agent-flow.json
+│
+├── widget/
+│   ├── widget.js
+│   ├── styles.css
+│   └── README.md
+│
+├── n8n/
+│   ├── janssen-ai-blueprint.json
+│   └── README.md
+│
+├── crm/
+│   ├── schema.sql
+│   └── logs.md
+│
+└── docs/
+    ├── agent-architecture.md
+    └── deployment-guide.md
+      
